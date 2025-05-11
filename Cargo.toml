@@ -1,0 +1,9 @@
+[package]
+name = "leti"
+version = "0.1.0"
+edition = "2024"
+description = "Health reminder app."
+license = "MIT"
+repository = "https://github.com/yinkaolotin/leti"
+
+[dependencies]
